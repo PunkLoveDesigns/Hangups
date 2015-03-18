@@ -1,2 +1,2 @@
 # Hangups
-An ppen source tool to track and analyze people's social media hangups
+An open source tool to nalyze people's social media hangups
